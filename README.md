@@ -1,3 +1,5 @@
+![Matrix Banner Gif](/banner.gif)
+
 # digitaljerry
 ### Product Designer. I enhance people via interfaces and functionality. No, I'm not trying to sell myself. I can do all these jobs as a specialist or as a generalist:
 
