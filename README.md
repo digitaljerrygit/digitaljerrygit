@@ -3,12 +3,11 @@
 # digitaljerry
 ### Product Designer.
 
-1. **User Interface Design:**
-3. **User Experience Design:**
-4. **User Research:** 
-5. **Interaction Design:** 
-6. **Digital Marketing:** 
-7. **Visual Design:** 
+1. **User Interface Design:** Software/Web Apps/Native Mobile/Website (Progressive Mindset / Responsive Framework). 
+3. **User Experience Design:** Helps others via design to be more efficient when using tech.
+4. **User Research:** Recruiting + Conducting Research. Analysis. 
+5. **Interaction Design:** Flows.
+6. **Visual Design:** Not my fav thing in the world but I'm good at it. 
 
 > _"People are instinctively curious: they want to learn, and they learn best by active self-directed exploration of
 their environment. They like to have a sense of control over what they are doing, to see and understand the results of their own actions."_
