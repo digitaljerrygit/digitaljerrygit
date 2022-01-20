@@ -1,14 +1,14 @@
 ![Matrix Banner Gif](/banner.gif)
 
 # digitaljerry
-### Product Designer. I enhance people via interfaces and functionality. No, I'm not trying to sell myself. I can do all these jobs as a specialist or as a generalist:
+### Product Designer.
 
-1. **User Interface Design:** (Themes, Design Systems, Visual Communication)
-3. **User Experience Design:** (Identifying pain/motivations and introducing solutions or improvements. Advocates for the user)
-4. **User Research:** (Recruiting, Conducting Tests, Designing Tests, Analysis etc.)
-5. **Interaction Design:** (Mostly mistaken for animations or UX. Creating meaningful flows and interactions)
-6. **Digital Marketing:** (Getting ideas to be seen where it needs to be seen)
-7. **Visual Design:** (Aesthetics/Branding)
+1. **User Interface Design:**
+3. **User Experience Design:**
+4. **User Research:** 
+5. **Interaction Design:** 
+6. **Digital Marketing:** 
+7. **Visual Design:** 
 
 > _"People are instinctively curious: they want to learn, and they learn best by active self-directed exploration of
 their environment. They like to have a sense of control over what they are doing, to see and understand the results of their own actions."_
